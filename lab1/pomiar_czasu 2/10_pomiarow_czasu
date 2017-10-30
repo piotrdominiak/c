@@ -1,0 +1,89 @@
+czas standardowy = 0.037051
+czas CPU         = 0.031519
+czas zegarowy    = 0.055636
+Czas wykonania 100000 operacji wejscia/wyjscia: 
+Wynik operacji arytmetycznych: 1.210343
+Czas wykonania 100000 operacji arytmetycznych: 
+Zegar 0.056106
+CPU 0.031968
+
+czas standardowy = 0.028087
+czas CPU         = 0.022366
+czas zegarowy    = 0.048569
+Czas wykonania 100000 operacji wejscia/wyjscia: 
+Wynik operacji arytmetycznych: 1.210343
+Czas wykonania 100000 operacji arytmetycznych: 
+Zegar 0.049083
+CPU 0.022823
+
+czas standardowy = 0.027192
+czas CPU         = 0.021284
+czas zegarowy    = 0.049731
+Czas wykonania 100000 operacji wejscia/wyjscia: 
+Wynik operacji arytmetycznych: 1.210343
+Czas wykonania 100000 operacji arytmetycznych: 
+Zegar 0.050229
+CPU 0.021737
+
+czas standardowy = 0.027258
+czas CPU         = 0.021571
+czas zegarowy    = 0.048592
+Czas wykonania 100000 operacji wejscia/wyjscia: 
+Wynik operacji arytmetycznych: 1.210343
+Czas wykonania 100000 operacji arytmetycznych: 
+Zegar 0.049065
+CPU 0.022020
+
+czas standardowy = 0.036000
+czas CPU         = 0.028368
+czas zegarowy    = 0.057935
+Czas wykonania 100000 operacji wejscia/wyjscia: 
+Wynik operacji arytmetycznych: 1.210343
+Czas wykonania 100000 operacji arytmetycznych: 
+Zegar 0.058431
+CPU 0.028830
+
+czas standardowy = 0.027821
+czas CPU         = 0.021775
+czas zegarowy    = 0.050717
+Czas wykonania 100000 operacji wejscia/wyjscia: 
+Wynik operacji arytmetycznych: 1.210343
+Czas wykonania 100000 operacji arytmetycznych: 
+Zegar 0.051203
+CPU 0.022225
+
+czas standardowy = 0.027692
+czas CPU         = 0.021895
+czas zegarowy    = 0.050499
+Czas wykonania 100000 operacji wejscia/wyjscia: 
+Wynik operacji arytmetycznych: 1.210343
+Czas wykonania 100000 operacji arytmetycznych: 
+Zegar 0.051018
+CPU 0.022377
+
+czas standardowy = 0.027001
+czas CPU         = 0.021299
+czas zegarowy    = 0.044438
+Czas wykonania 100000 operacji wejscia/wyjscia: 
+Wynik operacji arytmetycznych: 1.210343
+Czas wykonania 100000 operacji arytmetycznych: 
+Zegar 0.044935
+CPU 0.021752
+
+czas standardowy = 0.027323
+czas CPU         = 0.021559
+czas zegarowy    = 0.048262
+Czas wykonania 100000 operacji wejscia/wyjscia: 
+Wynik operacji arytmetycznych: 1.210343
+Czas wykonania 100000 operacji arytmetycznych: 
+Zegar 0.048763
+CPU 0.022020
+
+czas standardowy = 0.027457
+czas CPU         = 0.021807
+czas zegarowy    = 0.043265
+Czas wykonania 100000 operacji wejscia/wyjscia: 
+Wynik operacji arytmetycznych: 1.210343
+Czas wykonania 100000 operacji arytmetycznych: 
+Zegar 0.043758
+CPU 0.022259
