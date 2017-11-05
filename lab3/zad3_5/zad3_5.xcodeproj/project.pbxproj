@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6217CFDB1FAEFD7900F286C5 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 6217CFDA1FAEFD7900F286C5 /* main.c */; };
+		62A43C681FAF0CBE0086F2F1 /* lab__3_7.c in Sources */ = {isa = PBXBuildFile; fileRef = 62A43C661FAF0CBE0086F2F1 /* lab__3_7.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		6217CFD71FAEFD7900F286C5 /* zad3_5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = zad3_5; sourceTree = BUILT_PRODUCTS_DIR; };
 		6217CFDA1FAEFD7900F286C5 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		62A43C661FAF0CBE0086F2F1 /* lab__3_7.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = lab__3_7.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 		6217CFCE1FAEFD7900F286C5 = {
 			isa = PBXGroup;
 			children = (
+				62A43C661FAF0CBE0086F2F1 /* lab__3_7.c */,
 				6217CFD91FAEFD7900F286C5 /* zad3_5 */,
 				6217CFD81FAEFD7900F286C5 /* Products */,
 			);
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6217CFDB1FAEFD7900F286C5 /* main.c in Sources */,
+				62A43C681FAF0CBE0086F2F1 /* lab__3_7.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
